@@ -1,6 +1,4 @@
-# Causal Root Cause Analysis in Software-Defined Systems
-
-> **A Review with Context-aware Causal Observability as a Case Study**
+# Causal Root Cause Analysis in Software-Defined Systems: A Review with Context-aware Causal Observability as a Case Study
 
 **Ousman Khan and Alaa Khamis**  
 AI for Smart Mobility Lab, Interdisciplinary Research Center for Smart Mobility and Logistics, King Fahd University of Petroleum and Minerals (KFUPM)
