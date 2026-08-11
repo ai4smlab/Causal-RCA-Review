@@ -1,7 +1,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/Causal-RCA-Review/blob/main/LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/ai4smlab/Causal-RCA-Review)
 ![Repo Size](https://img.shields.io/github/repo-size/ai4smlab/Causal-RCA-Review)
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![GitHub Stars](https://img.shields.io/github/stars/ai4smlab/Causal-RCA-Review?style=social)
 
 <div align="center">
@@ -12,7 +11,7 @@ Ousman Khan and Alaa Khamis
 
 </div>  
 
-> 📝 **Publication status:** Submitted to *IEEE Access*. This repository contains supplementary material for the submitted manuscript; it does not indicate acceptance or publication.
+> 📝 **Publication status:** Submitted to *IEEE Access, 2026*. This repository contains supplementary material for the submitted manuscript; it does not indicate acceptance or publication.
 
 ## 📖 Overview
 
@@ -107,4 +106,4 @@ The manuscript has been submitted to *IEEE Access*. Formal citation metadata wil
 
 Until then, please refer to the manuscript by its title:
 
-> O. Khan and A. Khamis, “Causal Root Cause Analysis in Software-Defined Systems: A Review with Context-aware Causal Observability as a Case Study,” submitted to *IEEE Access*.
+> O. Khan and A. Khamis, “Causal Root Cause Analysis in Software-Defined Systems: A Review with Context-aware Causal Observability as a Case Study,” submitted to *IEEE Access, 2026*.
