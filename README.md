@@ -1,7 +1,16 @@
-# Causal Root Cause Analysis in Software-Defined Systems: A Review with Context-aware Causal Observability as a Case Study
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/ai4smlab/Causal-RCA-Review/blob/main/LICENSE)
+![Last Commit](https://img.shields.io/github/last-commit/ai4smlab/Causal-RCA-Review)
+![Repo Size](https://img.shields.io/github/repo-size/ai4smlab/Causal-RCA-Review)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub Stars](https://img.shields.io/github/stars/ai4smlab/Causal-RCA-Review?style=social)
 
-**Ousman Khan and Alaa Khamis**  
-AI for Smart Mobility Lab, Interdisciplinary Research Center for Smart Mobility and Logistics, King Fahd University of Petroleum and Minerals (KFUPM)
+<div align="center">
+
+# Causal Root Cause Analysis in Software-Defined Systems: A Review with Context-aware Causal Observability as a Case Study 
+
+Ousman Khan and Alaa Khamis  
+
+</div>  
 
 > 📝 **Publication status:** Submitted to *IEEE Access*. This repository contains supplementary material for the submitted manuscript; it does not indicate acceptance or publication.
 
