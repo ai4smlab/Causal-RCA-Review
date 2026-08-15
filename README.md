@@ -38,8 +38,8 @@ The search covered publications from **January 2010 through June 2026** in IEEE 
 flowchart LR
     A["5,217 records identified"] --> B["3,629 unique records"]
     B --> C["103 full-text articles assessed"]
-    C --> D["51 studies included"]
-    C --> E["52 full-text articles excluded"]
+    C --> D["56 studies included"]
+    C --> E["47 full-text articles excluded"]
 ```
 
 Included studies explicitly model cause-and-effect relationships as part of diagnosis. Methods based only on statistical association, anomaly detection, heuristic dependency analysis, or black-box prediction without explicit causal structure were excluded.
@@ -54,13 +54,13 @@ Included studies explicitly model cause-and-effect relationships as part of diag
 
 ## 💡 Main insights
 
-- **Research is growing rapidly.** The earliest eligible study was published in 2017, with activity accelerating after 2021. Studies published in 2024 and 2025 each represented **21.6%** of the included literature.
-- **Evidence is concentrated in generic software environments.** Domain-neutral software-defined systems accounted for **84.3%** of the reviewed studies; only **15.7%** addressed specific application domains.
-- **SDVs are substantially underexplored.** Only **2 of 51 studies (3.9%)** focused on SDVs. Both used Level 2 probabilistic causal discovery; none applied Level 1 structural causal modeling or counterfactual analysis.
-- **Metrics dominate observability data.** Metrics appeared in **44 of 51 studies**, while logs and distributed traces each appeared in **19 studies**.
+- **Research is growing rapidly.** The earliest eligible study was published in 2016, with activity accelerating after 2021. Studies published in 2024 and 2025 represented **16.1%** and **23.2%** of the included literature, respectively.
+- **Evidence is concentrated in generic software environments.** Domain-neutral software-defined systems accounted for **82.1%** of the reviewed studies; only **17.9%** addressed specific application domains.
+- **SDVs are substantially underexplored.** Only **2 of 56 studies (3.6%)** focused on SDVs. Both used Level 2 probabilistic causal discovery; none applied Level 1 structural causal modeling or counterfactual analysis.
+- **Metrics dominate observability data.** Metrics appeared in **46 of 56 studies**, while logs and distributed traces appeared in **22** and **19 studies**, respectively.
 - **Multimodal diagnosis is emerging.** **23 studies** integrated at least two telemetry types, indicating movement toward multimodal causal reasoning.
 - **Real-world validation remains limited.** Only **8 studies** reported evaluation using real operational systems; most relied on public benchmarks, simulations, synthetic environments, or controlled testbeds.
-- **Reproducibility is a major gap.** Only **7 studies** satisfied the review's implementation-availability criterion; **44** did not provide publicly accessible code, data, or replication artifacts.
+- **Reproducibility is a major gap.** Only **6 studies** satisfied the review's implementation-availability criterion; **50** did not provide publicly accessible code, data, or replication artifacts.
 
 ## 🚘 Why software-defined vehicles?
 
@@ -93,8 +93,8 @@ The paper identifies the following priorities for moving causal RCA from researc
 | File | Description |
 | --- | --- |
 | [S1.md](S1.md) | Complete database-specific search strategies for Scopus, Web of Science, and IEEE Xplore. |
-| [S2.md](S2.md) | The 52 studies excluded after full-text assessment and the primary exclusion rationale for each. |
-| [S3.md](S3.md) | Per-study and aggregate quality-assessment results for the 51 included studies, with linked references. |
+| [S2.md](S2.md) | The 47 studies excluded after full-text assessment and the primary exclusion rationale for each. |
+| [S3.md](S3.md) | Per-study and aggregate quality-assessment results for the 56 included studies, with linked references. |
 
 ## 🏷️ Keywords
 
