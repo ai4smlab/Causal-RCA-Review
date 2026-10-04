@@ -100,6 +100,12 @@ The paper identifies the following priorities for moving causal RCA from researc
 
 `Causal AI` · `Causal inference` · `Root cause analysis` · `Observability` · `Distributed systems` · `Software-defined systems` · `Software-defined vehicles` · `Context-aware systems`
 
+## Author Contributions
+
+**Ousman Khan:** Conceptualization, Methodology, Investigation, Data Curation, Formal Analysis, Visualization, Writing – Original Draft.
+
+**Alaa Khamis:** Conceptualization, Methodology, Supervision, Validation, Writing – Review & Editing, Project Administration, Funding Acquisition.
+
 ## 📄 Citation
 
 The manuscript has been submitted to *IEEE Access*. Formal citation metadata will be added if and when the paper is published.
